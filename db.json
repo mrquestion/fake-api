@@ -2,11 +2,13 @@
   "idols": [
     {
       "id": "gosegugosegu",
-      "name": "고세구"
+      "name": "고세구",
+      "color": "blue"
     },
     {
       "id": "lilpaaaaaa",
-      "name": "릴파"
+      "name": "릴파",
+      "color": "darkblue"
     }
   ],
   "histories": {
